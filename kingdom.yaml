@@ -1,0 +1,8 @@
+name: freenergyme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The continuous predict-and-correct loop by which a living mind stays in contact with the world over time, named as a received decree.
+dependsOn: [youspeak, me, noemame, autopoieme]
